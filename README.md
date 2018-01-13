@@ -14,9 +14,14 @@ This first known cartographers to mention this kind of map are Zhang Heng (78-13
 
 [One of the first grid map](first-grid-map.JPG)
 
+
+
 ## Variations
+
+Grid plan/Grid references
 
 ## Sources
 
 [Example 1](https://en.wikipedia.org/wiki/Grid_reference)
+
 [Example 2](https://en.wikipedia.org/wiki/Zhang_Heng#/media/File:Western_Han_Mawangdui_Silk_Map.JPG)
