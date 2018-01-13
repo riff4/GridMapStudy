@@ -22,6 +22,8 @@ Grid plan/Grid references
 
 ## Sources
 
-[Example 1](https://en.wikipedia.org/wiki/Grid_reference)
+[Source 1](https://en.wikipedia.org/wiki/Grid_reference)
+
+[Example 1](https://en.wikipedia.org/wiki/Grid_reference#/media/File:Fictional_Map_1.jpg)
 
 [Example 2](https://en.wikipedia.org/wiki/Zhang_Heng#/media/File:Western_Han_Mawangdui_Silk_Map.JPG)
