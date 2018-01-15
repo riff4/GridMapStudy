@@ -14,6 +14,8 @@ This first known cartographers to mention this kind of map are Zhang Heng (78-13
 
 [One of the first grid map](first-grid-map.JPG)
 
+Grid plan are basically the adaptation of this kind of map to the conception of a city plan.
+
 
 
 ## Variations
