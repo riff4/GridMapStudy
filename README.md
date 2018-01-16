@@ -21,6 +21,9 @@ The most famous ones being the plans of big cities. New-York development was bas
 
 ## Variations
 
+Grid plan, as said earlier, are basically the adaptation of grid map to city plan, where the streets are forming the grid.
+In those cities, the streets must run at right angles to each other.
+
 Grid plan/Grid references
 
 ## Sources
