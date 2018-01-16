@@ -24,6 +24,8 @@ The most famous ones being the plans of big cities. New-York development was bas
 Grid plan, as said earlier, are basically the adaptation of grid map to city plan, where the streets are forming the grid.
 In those cities, the streets must run at right angles to each other.
 
+[Windermere, Florida](windermere.jpg)
+
 Grid plan/Grid references
 
 ## Sources
@@ -35,3 +37,5 @@ Grid plan/Grid references
 [Example 2](https://en.wikipedia.org/wiki/Zhang_Heng#/media/File:Western_Han_Mawangdui_Silk_Map.JPG)
 
 [The Greatest Grid: How Manhattan’s Famous Street Map Came to Be](https://www.brainpickings.org/2012/01/17/the-greatest-grid/)
+
+[Windermere](https://en.wikipedia.org/wiki/Grid_plan#/media/File:Windermere.jpg)
