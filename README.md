@@ -1,4 +1,4 @@
-# GridMapStudy
+# Grid Map Study
 A little study about Grid Maps
 
 This document is the summary of my study about grid maps.
