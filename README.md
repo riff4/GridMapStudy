@@ -14,9 +14,10 @@ This first known cartographers to mention this kind of map are Zhang Heng (78-13
 
 [One of the first grid map](first-grid-map.JPG)
 
-Grid plan are basically the adaptation of this kind of map to the conception of a city plan.
+Grid plan are basically the adaptation of this kind of map to the conception of a city plan. 
+The most famous ones being the plans of big cities. New-York development was based on a grid plan to ensure the city's growth since 1811.
 
-
+[The Commissioner’s Plan of 1811, by John Randel, Jr. (Courtesy of the New York City Municipal Archives)](manhattan.JPG)
 
 ## Variations
 
