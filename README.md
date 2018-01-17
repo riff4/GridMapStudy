@@ -26,15 +26,17 @@ In those cities, the streets must run at right angles to each other.
 
 [Windermere, Florida](windermere.jpg)
 
-Grid plan/Grid references
+Grid references is an other name used to characterize a map using cartesian coordinates.
 
 ## Sources
 
-[Source 1](https://en.wikipedia.org/wiki/Grid_reference)
+[Grid references](https://en.wikipedia.org/wiki/Grid_reference)
 
 [Example 1](https://en.wikipedia.org/wiki/Grid_reference#/media/File:Fictional_Map_1.jpg)
 
 [Example 2](https://en.wikipedia.org/wiki/Zhang_Heng#/media/File:Western_Han_Mawangdui_Silk_Map.JPG)
+
+[Grid plan](https://en.wikipedia.org/wiki/Grid_plan)
 
 [The Greatest Grid: How Manhattan’s Famous Street Map Came to Be](https://www.brainpickings.org/2012/01/17/the-greatest-grid/)
 
